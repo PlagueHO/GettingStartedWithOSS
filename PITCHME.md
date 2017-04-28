@@ -12,9 +12,7 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 
 ---
 
-## Open-Source Contrbutions
-
-### [Microsoft DSC Resource Kit](https://github.com/PowerShell/DscResources/blob/master/Maintainers.md#current-maintainers)
+### Contributions to [Microsoft DSC Resource Kit](https://github.com/PowerShell/DscResources/blob/master/Maintainers.md#current-maintainers)
 
 - [xNetworking](https://github.com/PowerShell/xNetworking), Community Maintainer
 - [xStorage](https://github.com/PowerShell/xStorage), Community Maintainer
@@ -29,6 +27,8 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 - [xHyper-V](https://github.com/PowerShell/xHyper-V), Contributor
 - [xTimeZone](https://github.com/PowerShell/xTimeZone), Contributor
 - [xPSDesiredStateConfiguration](https://github.com/PowerShell/xPSDesiredStateConfiguration), Contributor
+
+---
 
 ### Other DSC Resources
 
@@ -48,3 +48,6 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 ### Microsoft Documentation Projects
 
 - [PowerShell Documentation](https://github.com/PowerShell/PowerShell-Docs)
+
+---
+

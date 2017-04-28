@@ -56,16 +56,18 @@ _and a few others..._
 
 ## General Tips
 
-1. Sign up for a GitHub account.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
-1. Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
-1. Learn to use Git.<!-- .element: class="fragment" -->
-  <br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
+Sign up for a GitHub account.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
+
+Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
+
+Learn to use Git.<!-- .element: class="fragment" -->
+<br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
 
 ---
 
 ## Contributing Tips
 
-| You'll become a far better coder contributing to Open-Source projects.
+| You'll become a better programmer contributing to Open-Source projects.
 
 1. You don't have to be a coder to contribute!<br>
   _Not interested in coding? Try contributing documentation, testing, automation or localization._<!-- .element: class="fragment" -->

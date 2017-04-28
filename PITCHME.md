@@ -57,9 +57,9 @@ _and a few others..._
 ## General Tips
 
 
-1. Sign up for a [GitHub](https://github.com) account.
-  <br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px;"/>
-1. Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/blob/master/images/Git_Logo.png?raw=true" alt="Github" style="width: 200px;"/><!-- .element: class="fragment" -->
+1. Sign up for a GitHub account.
+  <br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
+1. Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
 1. Learn to use Git.<!-- .element: class="fragment" -->
-  <br><h2>Seriously!</h2><!-- .element: class="fragment" -->
+  <br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
 

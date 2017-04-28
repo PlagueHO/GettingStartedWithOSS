@@ -56,9 +56,30 @@ _and a few others..._
 
 ## General Tips
 
-
 1. Sign up for a GitHub account.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
 1. Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
 1. Learn to use Git.<!-- .element: class="fragment" -->
   <br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
+
+---
+
+## Contributing Tips
+
+| You'll become a far better coder contributing to Open-Source projects.
+
+1. You don't have to be a coder to contribute!<br>
+  _Not interested in coding? Try contributing documentation, testing, automation or localization._<!-- .element: class="fragment" -->
+1. Find a project you want to get involved with.<br>
+  _Can't find anything? Try [Up-For-Grabs](http://up-for-grabs.net/#/)._<!-- .element: class="fragment" -->
+1. Read the `README.MD` and `CONTRIBUTING.MD` files.<!-- .element: class="fragment" -->
+
+---
+
+## More Contributing Tips
+
+| Pro-tip: Everyone was an open-source contribution 'beginner' once.
+
+1. Look in the Project **Issues**<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Issues.png" alt="Git" style="width: 200px; border-width: 0px;"/><br>_Issues tagged with `Easy` can be a great place for 'beginners' to start_<br>_Look for `Help Wanted` issues as well_<!-- .element: class="fragment" -->
+1. Offer to help by posting in the `issue`.<br>_More often than not the maintainer will gladly welcome the help_.<!-- .element: class="fragment" -->
+1. Feeling unsure?<br>_Ask the maintainer if they can suggest some easy issues they'd like help with_<!-- .element: class="fragment" -->
 

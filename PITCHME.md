@@ -105,7 +105,4 @@ _and a few others..._
 <img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/lgtm.png" alt="Git" style="width: 300px; border-width: 0px;"/>
 
 - **You can review PRs too.**<br>_Once you learn the style and practices of a project you can also review PRs._ <!-- .element: class="fragment" -->
-- **Be courteous and kind when reviewing.**<br>_This is a sure-fire way of scaring contributors off for good._ <!-- .element: class="fragment" -->
-
-
-
+- **Be courteous and kind when reviewing.**<br>_Rude or arrogant reviews are a good way to make sure a contributor never contributes to OSS ever again._ <!-- .element: class="fragment" -->

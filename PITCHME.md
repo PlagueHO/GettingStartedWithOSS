@@ -1,6 +1,6 @@
 ---
 
-# Open-Source Projects
+## Open-Source Projects
 
 | Tips on getting started creating and contributing to Open-Source Projects
 
@@ -12,9 +12,9 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 
 ---
 
-# Open-Source Contrbutions
+## Open-Source Contrbutions
 
-## [Microsoft DSC Resource Kit](https://github.com/PowerShell/DscResources/blob/master/Maintainers.md#current-maintainers)
+### [Microsoft DSC Resource Kit](https://github.com/PowerShell/DscResources/blob/master/Maintainers.md#current-maintainers)
 
 - [xNetworking](https://github.com/PowerShell/xNetworking), Community Maintainer
 - [xStorage](https://github.com/PowerShell/xStorage), Community Maintainer
@@ -30,7 +30,7 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 - [xTimeZone](https://github.com/PowerShell/xTimeZone), Contributor
 - [xPSDesiredStateConfiguration](https://github.com/PowerShell/xPSDesiredStateConfiguration), Contributor
 
-## Other DSC Resources
+### Other DSC Resources
 
 | All under current review for inclusion into DSC Resource Kit.
 
@@ -38,13 +38,13 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 - [FSRMDsc](https://github.com/PlagueHO/FSRMDsc)
 - [WSManDsc](https://github.com/PlagueHO/WSManDsc)
 
-## Other PowerShell Projects
+### Other PowerShell Projects
 
 - [LabBuilder](https://github.com/PlagueHO/LabBuilder)
 - [Jenkins PowerShell Module](https://github.com/PlagueHO/Jenkins)
 - [Loopback Adapter PowerShell Module](https://github.com/PlagueHO/Jenkins)
 - A few others...
 
-## Microsoft Documentation Projects
+### Microsoft Documentation Projects
 
 - [PowerShell Documentation](https://github.com/PowerShell/PowerShell-Docs)

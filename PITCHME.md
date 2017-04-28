@@ -12,8 +12,6 @@ _**Daniel Scott-Raynsford**, MVP Cloud and Datacenter Management_
 
 ---
 
-## My Open-Source Contributions
-
 ### Contributions to [Microsoft DSC Resource Kit](https://github.com/PowerShell/DscResources/blob/master/Maintainers.md#current-maintainers)
 
 - [xNetworking](https://github.com/PowerShell/xNetworking), Community Maintainer
@@ -56,9 +54,13 @@ _and a few others..._
 
 ---
 
-### General Tips
+## General Tips
 
-1. Sign up for a [GitHub](https://github.com) account.<!-- .element: class="fragment" -->
+
+1. Sign up for a [GitHub](https://github.com) account.
+  <br><img src="./images/Github_Logo.png" alt="Github" style="width: 200px;"/><!-- .element: class="fragment" -->
+1. Learn to use Git.
+  <br><img src="./images/Git_Logo.png" alt="Github" style="width: 200px;"/><!-- .element: class="fragment" -->
 1. Learn to use Git.<!-- .element: class="fragment" -->
-1. Learn to use Git. I'm serious.<!-- .element: class="fragment" -->
+  <br><h2>_**I'm serious!**_</h2><!-- .element: class="fragment" -->
 

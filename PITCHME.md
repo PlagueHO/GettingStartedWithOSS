@@ -90,15 +90,22 @@ _and a few others..._
 
 ---
 
-### Contributing Pull Requests
+### Contributing Pull Requests (PR)
 
-| _Submitting your changes to be merged into the maintainers repository is called a Pull Request._
+| _Submitting your changes to be merged into the maintainers repository is called a Pull Request (PR)._
 
 <img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/lgtm.png" alt="Git" style="width: 300px; border-width: 0px;"/>
 
-- **Pull Requests are reviewed by maintainers.**<br>_This may take time..._ <!-- .element: class="fragment" -->
+- **PRs are reviewed by maintainers.**<br>_This may take time..._ <!-- .element: class="fragment" -->
 - **Getting review comments is normal.**<br>_This is often the hardest part for most beginners. Don't worry! EVERYONE gets them._ <!-- .element: class="fragment" -->
-- **You can review Pull Requests too.**<br>_Once you learn the style and practices of a project you can also review pull requests._ <!-- .element: class="fragment" -->
+- **Mention you're a beginner.**<br>_If you're a beginner, mention it in your PR._ <!-- .element: class="fragment" -->
+
+---
+
+### You Too Can Review
+
+- **You can review PRs too.**<br>_Once you learn the style and practices of a project you can also review PRs._ <!-- .element: class="fragment" -->
+- **Be courteous and kind when reviewing.**<br>_This is a sure-fire way of scaring contributors off for good._ <!-- .element: class="fragment" -->
 
 
 

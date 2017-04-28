@@ -111,8 +111,8 @@ _and a few others..._
 
 ### Starting Your Own Project
 
-- **Documentation, Documentation, Documentation.**<br>_Always include a README.MD and CONTRIBUTING.MD in your project._
-- **Be nice to contributors and say thank you!**<br>_They'll be more inclined to give their time if they feel it is appreciated._
+- **Documentation, Documentation, Documentation.**<br>_Always include a README.MD and CONTRIBUTING.MD in your project._ <!-- .element: class="fragment" -->
+- **Be nice to contributors and say thank you!**<br>_They'll be more inclined to give their time if they feel it is appreciated._ <!-- .element: class="fragment" -->
 
 ---
 
@@ -121,8 +121,8 @@ _and a few others..._
 | Did you know: [Microsoft has the largest number of OSS project contributors in the world.](https://www.businessinsider.com.au/microsoft-github-open-source-2016-9)
 
 - Contributing to open-source projects:
-  - is extremely rewarding.
-  - makes me a better developer and tester.
-  - helps me learn new techniques and improve my skills.
+  - is extremely rewarding. <!-- .element: class="fragment" -->
+  - makes me a better developer and tester. <!-- .element: class="fragment" -->
+  - helps me learn new techniques and improve my skills. <!-- .element: class="fragment" -->
 
 _Open-source contributions are now so important to our Dev teams we evaluate them when interviewing new team members._

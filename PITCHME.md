@@ -66,7 +66,7 @@ _and a few others..._
 
 | _You'll become a better programmer contributing to Open-Source projects._
 
-- **You don't have to be a coder to contribute!**<br>_Not interested in coding? Try contributing documentation, testing, automation or localization._ <!-- .element: class="fragment" -->
+- **You don't have to be a coder to contribute!**<br>_Not interested in coding? Try contributing documentation, tests, automation or localization._ <!-- .element: class="fragment" -->
 - **Find a project you want to get involved with.**<br>_Can't find anything? Try [Up-For-Grabs](http://up-for-grabs.net/#/)._ <!-- .element: class="fragment" -->
 - **Read the README.MD and CONTRIBUTING.MD files.**<br>_Read all the things!_ <!-- .element: class="fragment" -->
 
@@ -96,9 +96,9 @@ _and a few others..._
 
 <img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/lgtm.png" alt="Git" style="width: 300px; border-width: 0px;"/>
 
-- **Pull Requests are reviewed by maintainers.**<br>_This may take time..._
-- **Getting review comments is normal.**<br>_This is often the hardest part for most beginners. Don't worry! EVERYONE gets them._
-- **You can review Pull Requests too.**<br>_Once you learn the style and practices of a project you can also review pull requests._
+- **Pull Requests are reviewed by maintainers.**<br>_This may take time..._ <!-- .element: class="fragment" -->
+- **Getting review comments is normal.**<br>_This is often the hardest part for most beginners. Don't worry! EVERYONE gets them._ <!-- .element: class="fragment" -->
+- **You can review Pull Requests too.**<br>_Once you learn the style and practices of a project you can also review pull requests._ <!-- .element: class="fragment" -->
 
 
 

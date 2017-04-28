@@ -86,7 +86,7 @@ _and a few others..._
 ### More Contributing Tips
 
 - **Feeling unsure?**<br>_Ask the maintainer if they can suggest some easy issues they'd like help with._ <!-- .element: class="fragment" -->
-- **Style REALLY matters to most maintainers!**<br>_Look for STYLEGUIDELINES.MD or just try and match your style to any existing code._
+- **Style REALLY matters to most maintainers!**<br>_Look for STYLEGUIDELINES.MD or just try and match your style to any existing code._ <!-- .element: class="fragment" -->
 
 ---
 
@@ -97,8 +97,8 @@ _and a few others..._
 <img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/lgtm.png" alt="Git" style="width: 300px; border-width: 0px;"/>
 
 - **Pull Requests are reviewed by maintainers.**<br>_This may take time..._
-- **Having review comments is normal.**<br>_This is often the hardest part for most beginners (or experienced) - review comments are normal and will help you get better._
-- **You can review Pull Requests too.**<br>_Once you know the style guidelines and practices of a project you can help maintainers by reviewing pull requests._
+- **Getting review comments is normal.**<br>_This is often the hardest part for most beginners. Don't worry! EVERYONE gets them._
+- **You can review Pull Requests too.**<br>_Once you learn the style and practices of a project you can also review pull requests._
 
 
 

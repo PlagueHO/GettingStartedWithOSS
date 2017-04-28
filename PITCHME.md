@@ -106,3 +106,23 @@ _and a few others..._
 
 - **You can review PRs too.**<br>_Once you learn the style and practices of a project you can also review PRs._ <!-- .element: class="fragment" -->
 - **Be courteous and kind when reviewing.**<br>_Rude or arrogant reviews are a good way to make sure a contributor never contributes to OSS ever again._ <!-- .element: class="fragment" -->
+
+---
+
+### Starting Your Own Project
+
+- **Documentation, Documentation, Documentation.**<br>_Always include a README.MD and CONTRIBUTING.MD in your project._
+- **Be nice to contributors and say thank you!**<br>_They'll be more inclined to give their time if they feel it is appreciated._
+
+---
+
+### Final Thoughts
+
+| Did you know: [Microsoft has the largest number of OSS project contributors in the world.](https://www.businessinsider.com.au/microsoft-github-open-source-2016-9)
+
+- Contributing to OSS:
+  - is one of the most rewarding things I have ever done.
+  - has made me a far better developer and tester.
+  - enabled me to constantly learn new techniques and improve my skills.
+
+_OSS contributions are now so important to our Dev teams we evaluate them when interviewing new team members._

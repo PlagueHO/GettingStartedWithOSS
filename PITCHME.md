@@ -68,7 +68,7 @@ _and a few others..._
 
 - **You don't have to be a coder to contribute!**<br>_Not interested in coding? Try contributing documentation, testing, automation or localization._ <!-- .element: class="fragment" -->
 - **Find a project you want to get involved with.**<br>_Can't find anything? Try [Up-For-Grabs](http://up-for-grabs.net/#/)._ <!-- .element: class="fragment" -->
-- **Read the README.MD and CONTRIBUTING.MD files.**<br>_Read everything all the things!_ <!-- .element: class="fragment" -->
+- **Read the README.MD and CONTRIBUTING.MD files.**<br>_Read all the things!_ <!-- .element: class="fragment" -->
 
 ---
 
@@ -76,20 +76,28 @@ _and a few others..._
 
 | _Pro-tip: Everyone was an open-source contribution 'beginner' once._
 
-- **Look in the Project _Issues_.**<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Issues.png" alt="Git" style="width: 200px; border-width: 0px;"/><br>_Issues tagged with `Easy` are a great for 'beginners' or look for `Help Wanted` tags._ <!-- .element: class="fragment" -->
-- **Offer to help by posting in the _issue_.**<br>_More often than not the maintainer will gladly welcome the help_. <!-- .element: class="fragment" -->
+<img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Issues.png" alt="Git" style="width: 200px; border-width: 0px;"/>
+
+- **Look in the Project _Issues_.**<br>_Issues tagged with `Easy` are a great for 'beginners' or look for `Help Wanted` tags._ <!-- .element: class="fragment" -->
+- **Offer to help by posting in the _issue_.**<br>_The maintainer will usually welcome the help._ <!-- .element: class="fragment" -->
+
+---
+
+### More Contributing Tips
+
 - **Feeling unsure?**<br>_Ask the maintainer if they can suggest some easy issues they'd like help with._ <!-- .element: class="fragment" -->
+- **Style REALLY matters to most maintainers!**<br>_Look for STYLEGUIDELINES.MD or just try and match your style to any existing code._
 
 ---
 
 ### Contributing Pull Requests
 
-| _Submitting your changes to be included in the repository is called a Pull Request. Maintainers will review your proposed changes and may request you make changes._
+| _Submitting your changes to be merged into the maintainers repository is called a Pull Request._
 
 <img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/lgtm.png" alt="Git" style="width: 300px; border-width: 0px;"/>
 
-- **Pull Requests are reviewed by maintainers.**<br>_This may take..._
-- **Style REALLY matters to most maintainers!**<br>_Look for STYLEGUIDELINES.MD or just try and match your style to any existing code._
+- **Pull Requests are reviewed by maintainers.**<br>_This may take time..._
+- **Having review comments is normal.**<br>_This is often the hardest part for most beginners (or experienced) - review comments are normal and will help you get better._
 - **You can review Pull Requests too.**<br>_Once you know the style guidelines and practices of a project you can help maintainers by reviewing pull requests._
 
 

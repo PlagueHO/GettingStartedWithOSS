@@ -58,9 +58,13 @@ _and a few others..._
 
 
 1. Sign up for a [GitHub](https://github.com) account.
-  <br><img src="./images/Github_Logo.png" alt="Github" style="width: 200px;"/><!-- .element: class="fragment" -->
+  <br><img src="images/GitHub_Logo.png" alt="Github" style="width: 200px;"/>
+  <!-- .element: class="fragment" -->
 1. Learn to use Git.
-  <br><img src="./images/Git_Logo.png" alt="Github" style="width: 200px;"/><!-- .element: class="fragment" -->
-1. Learn to use Git.<!-- .element: class="fragment" -->
-  <br><h2>_**I'm serious!**_</h2><!-- .element: class="fragment" -->
+  <br><img src="images/Git_Logo.png" alt="Github" style="width: 200px;"/>
+  <!-- .element: class="fragment" -->
+1. Learn to use Git.
+  <!-- .element: class="fragment" -->
+  <br><h2>_**I'm serious!**_</h2>
+  <!-- .element: class="fragment" -->
 

@@ -121,8 +121,8 @@ _and a few others..._
 | Did you know: [Microsoft has the largest number of OSS project contributors in the world.](https://www.businessinsider.com.au/microsoft-github-open-source-2016-9)
 
 - Contributing to OSS:
-  - is one of the most rewarding things I have ever done.
-  - has made me a far better developer and tester.
-  - enabled me to constantly learn new techniques and improve my skills.
+  - is extremely rewarding.
+  - makes me a better developer and tester.
+  - helps me learn new techniques and improve my skills.
 
 _OSS contributions are now so important to our Dev teams we evaluate them when interviewing new team members._

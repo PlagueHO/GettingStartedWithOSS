@@ -56,12 +56,9 @@ _and a few others..._
 
 ### General Tips
 
-Sign up for a GitHub account.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
-
-Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
-
-Learn to use Git.<!-- .element: class="fragment" -->
-<br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
+- Sign up for a GitHub account.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/GitHub_Logo.png" alt="Github" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
+- Learn to use Git.<br><img src="https://github.com/PlagueHO/GettingStartedWithOSS/raw/master/images/Git_Logo.png" alt="Git" style="width: 200px; border-width: 0px;"/><!-- .element: class="fragment" -->
+- Learn to use Git.<br><h2>I really mean it!</h2><!-- .element: class="fragment" -->
 
 ---
 
